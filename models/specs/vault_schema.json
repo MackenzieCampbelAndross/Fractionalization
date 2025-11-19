@@ -3,6 +3,6 @@
   "minBuyoutThreshold": 0.75,
   "votingPeriodDays": 7,
   "feeBps": 25,
-  "last_iteration": "v7",
-  "updated_at": "2025-11-19 14:33:36"
+  "last_iteration": "v9",
+  "updated_at": "2025-11-19 17:50:29"
 }
