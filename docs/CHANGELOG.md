@@ -11,3 +11,4 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
 - [2025-11-19 22:02:54] fix(pricing): split asset valuation engine into modular pricing feeds
 - [2025-11-27 10:52:23] fix(erc20): implement emergency circuit breaker for anomalous vault liquidations
 - [2025-11-28 12:04:05] perf(governance): handle partial fill execution in fractional token auctions
+- [2025-11-28 20:46:56] fix(bonding-curve): add event emission for fractional share transfers
