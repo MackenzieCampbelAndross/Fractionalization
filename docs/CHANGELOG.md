@@ -12,3 +12,4 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
 - [2025-11-27 10:52:23] fix(erc20): implement emergency circuit breaker for anomalous vault liquidations
 - [2025-11-28 12:04:05] perf(governance): handle partial fill execution in fractional token auctions
 - [2025-11-28 20:46:56] fix(bonding-curve): add event emission for fractional share transfers
+- [2025-11-28 21:31:41] fix(buyout): refactor fractional vault initialization parameters
