@@ -15,3 +15,4 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
 - [2025-11-28 21:31:41] fix(buyout): refactor fractional vault initialization parameters
 - [2025-12-09 10:01:02] fix(bonding-curve): validate Chainlink price feed staleness threshold
 - [2025-12-09 14:40:39] perf(buyout): split asset valuation engine into modular pricing feeds
+- [2025-12-09 17:18:25] fix(oracle): modularize asset buyout proposal handlers
