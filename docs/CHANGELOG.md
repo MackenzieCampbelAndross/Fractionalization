@@ -13,3 +13,4 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
 - [2025-11-28 12:04:05] perf(governance): handle partial fill execution in fractional token auctions
 - [2025-11-28 20:46:56] fix(bonding-curve): add event emission for fractional share transfers
 - [2025-11-28 21:31:41] fix(buyout): refactor fractional vault initialization parameters
+- [2025-12-09 10:01:02] fix(bonding-curve): validate Chainlink price feed staleness threshold
