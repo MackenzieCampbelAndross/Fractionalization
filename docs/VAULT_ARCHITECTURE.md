@@ -11,3 +11,5 @@ Custody, fractional ERC-20 issuance, and governance liquidation workflows.
   *Updated specifications and documentation details.*
 - **2025-11-28 14:05:06**: `docs(erc20): add quorum calculation for fractional buyout auctions`
   *Updated specifications and documentation details.*
+- **2025-12-12 16:23:54**: `docs(buyout): implement emergency circuit breaker for anomalous vault liquidations`
+  *Updated specifications and documentation details.*
