@@ -20,3 +20,4 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
 - [2025-12-17 09:47:50] fix(shares): implement emergency circuit breaker for anomalous vault liquidations
 - [2025-12-17 13:22:48] perf(pricing): validate metadata URI hashes against IPFS pinning service
 - [2025-12-24 18:16:40] perf(erc20): validate metadata URI hashes against IPFS pinning service
+- [2026-01-01 19:47:18] fix(auction): modularize asset buyout proposal handlers
