@@ -22,3 +22,4 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
 - [2025-12-24 18:16:40] perf(erc20): validate metadata URI hashes against IPFS pinning service
 - [2026-01-01 19:47:18] fix(auction): modularize asset buyout proposal handlers
 - [2026-01-05 17:08:20] chore(erc20): implement fractional share distribution math with fee deduction
+- [2026-01-06 13:46:47] perf(bonding-curve): split asset valuation engine into modular pricing feeds
