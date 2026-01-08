@@ -39,3 +39,5 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
   *Updated specifications and documentation details.*
 - **2026-01-08 20:07:19**: `docs(auction): optimize gas consumption during batch share token distribution`
   *Updated specifications and documentation details.*
+- **2026-01-08 21:46:35**: `docs(governance): implement fractional share distribution math with fee deduction`
+  *Updated specifications and documentation details.*
