@@ -35,3 +35,5 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
   *Updated specifications and documentation details.*
 - [2026-01-08 17:58:09] chore(buyout): validate Chainlink price feed staleness threshold
 - [2026-01-08 18:11:16] perf(buyout): document fractional bonding curve and liquidity reserve specs
+- **2026-01-08 18:21:48**: `docs(auction): document fractional bonding curve and liquidity reserve specs`
+  *Updated specifications and documentation details.*
