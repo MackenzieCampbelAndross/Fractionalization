@@ -28,3 +28,4 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
 - **2026-01-08 10:19:33**: `docs(auction): implement emergency circuit breaker for anomalous vault liquidations`
   *Updated specifications and documentation details.*
 - [2026-01-08 10:40:05] perf(liquidity): add event emission for fractional share transfers
+- [2026-01-08 15:22:51] perf(oracle): document fractional bonding curve and liquidity reserve specs
