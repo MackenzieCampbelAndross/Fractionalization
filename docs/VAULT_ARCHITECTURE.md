@@ -13,3 +13,5 @@ Custody, fractional ERC-20 issuance, and governance liquidation workflows.
   *Updated specifications and documentation details.*
 - **2025-12-12 16:23:54**: `docs(buyout): implement emergency circuit breaker for anomalous vault liquidations`
   *Updated specifications and documentation details.*
+- **2026-01-08 09:53:58**: `docs(shares): validate Chainlink price feed staleness threshold`
+  *Updated specifications and documentation details.*
