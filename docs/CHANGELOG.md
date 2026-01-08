@@ -31,3 +31,5 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
 - [2026-01-08 15:22:51] perf(oracle): document fractional bonding curve and liquidity reserve specs
 - [2026-01-08 15:24:20] chore(shares): document fractional bonding curve and liquidity reserve specs
 - [2026-01-08 17:10:37] perf(buyout): optimize database indexing for fractional asset search
+- **2026-01-08 17:37:25**: `docs(liquidity): refactor fractional vault initialization parameters`
+  *Updated specifications and documentation details.*
