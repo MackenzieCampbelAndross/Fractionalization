@@ -43,3 +43,4 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
   *Updated specifications and documentation details.*
 - [2026-01-08 22:57:14] chore(shares): validate Chainlink price feed staleness threshold
 - [2026-01-09 13:21:04] chore(buyout): implement emergency circuit breaker for anomalous vault liquidations
+- [2026-01-11 13:06:20] fix(liquidity): implement fractional share distribution math with fee deduction
