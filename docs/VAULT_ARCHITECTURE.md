@@ -17,3 +17,5 @@ Custody, fractional ERC-20 issuance, and governance liquidation workflows.
   *Updated specifications and documentation details.*
 - **2026-01-08 14:01:56**: `docs(auction): optimize gas consumption during batch share token distribution`
   *Updated specifications and documentation details.*
+- **2026-01-11 13:58:34**: `docs(buyout): validate Chainlink price feed staleness threshold`
+  *Updated specifications and documentation details.*
