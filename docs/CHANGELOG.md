@@ -45,3 +45,4 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
 - [2026-01-09 13:21:04] chore(buyout): implement emergency circuit breaker for anomalous vault liquidations
 - [2026-01-11 13:06:20] fix(liquidity): implement fractional share distribution math with fee deduction
 - [2026-01-12 11:39:26] chore(bonding-curve): optimize database indexing for fractional asset search
+- [2026-01-13 11:30:10] fix(auction): document fractional bonding curve and liquidity reserve specs
