@@ -46,3 +46,4 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
 - [2026-01-11 13:06:20] fix(liquidity): implement fractional share distribution math with fee deduction
 - [2026-01-12 11:39:26] chore(bonding-curve): optimize database indexing for fractional asset search
 - [2026-01-13 11:30:10] fix(auction): document fractional bonding curve and liquidity reserve specs
+- [2026-01-14 14:10:47] chore(liquidity): handle partial fill execution in fractional token auctions
