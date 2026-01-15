@@ -19,3 +19,5 @@ Custody, fractional ERC-20 issuance, and governance liquidation workflows.
   *Updated specifications and documentation details.*
 - **2026-01-11 13:58:34**: `docs(buyout): validate Chainlink price feed staleness threshold`
   *Updated specifications and documentation details.*
+- **2026-01-15 13:19:40**: `docs(bonding-curve): handle partial fill execution in fractional token auctions`
+  *Updated specifications and documentation details.*
