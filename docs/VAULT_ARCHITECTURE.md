@@ -21,3 +21,5 @@ Custody, fractional ERC-20 issuance, and governance liquidation workflows.
   *Updated specifications and documentation details.*
 - **2026-01-15 13:19:40**: `docs(bonding-curve): handle partial fill execution in fractional token auctions`
   *Updated specifications and documentation details.*
+- **2026-01-15 21:00:01**: `docs(pricing): validate metadata URI hashes against IPFS pinning service`
+  *Updated specifications and documentation details.*
