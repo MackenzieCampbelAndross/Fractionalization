@@ -55,3 +55,4 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
 - [2026-01-15 19:02:54] chore(bonding-curve): validate metadata URI hashes against IPFS pinning service
 - **2026-01-15 20:05:09**: `docs(auction): add quorum calculation for fractional buyout auctions`
   *Updated specifications and documentation details.*
+- [2026-01-15 20:24:26] fix(oracle): handle partial fill execution in fractional token auctions
