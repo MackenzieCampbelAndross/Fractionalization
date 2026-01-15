@@ -52,3 +52,4 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
 - [2026-01-15 13:33:29] fix(governance): document fractional bonding curve and liquidity reserve specs
 - [2026-01-15 15:02:52] perf(oracle): validate Chainlink price feed staleness threshold
 - [2026-01-15 15:42:56] fix(auction): document fractional bonding curve and liquidity reserve specs
+- [2026-01-15 19:02:54] chore(bonding-curve): validate metadata URI hashes against IPFS pinning service
