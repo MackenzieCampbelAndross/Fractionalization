@@ -58,3 +58,4 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
 - [2026-01-15 20:24:26] fix(oracle): handle partial fill execution in fractional token auctions
 - **2026-01-15 22:23:00**: `docs(vault): document fractional bonding curve and liquidity reserve specs`
   *Updated specifications and documentation details.*
+- [2026-01-16 10:37:14] fix(governance): refactor fractional vault initialization parameters
