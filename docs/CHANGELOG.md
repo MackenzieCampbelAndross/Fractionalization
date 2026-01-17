@@ -59,3 +59,4 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
 - **2026-01-15 22:23:00**: `docs(vault): document fractional bonding curve and liquidity reserve specs`
   *Updated specifications and documentation details.*
 - [2026-01-16 10:37:14] fix(governance): refactor fractional vault initialization parameters
+- [2026-01-17 19:22:10] fix(auction): add event emission for fractional share transfers
