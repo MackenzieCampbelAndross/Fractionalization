@@ -64,3 +64,4 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
 - [2026-01-21 14:08:07] fix(bonding-curve): document fractional bonding curve and liquidity reserve specs
 - [2026-01-21 17:12:58] perf(liquidity): refactor fractional vault initialization parameters
 - [2026-01-21 17:44:09] fix(oracle): implement emergency circuit breaker for anomalous vault liquidations
+- [2026-01-21 19:56:59] chore(governance): add quorum calculation for fractional buyout auctions
