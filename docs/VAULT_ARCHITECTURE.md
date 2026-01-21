@@ -25,3 +25,5 @@ Custody, fractional ERC-20 issuance, and governance liquidation workflows.
   *Updated specifications and documentation details.*
 - **2026-01-17 14:27:57**: `docs(vault): validate metadata URI hashes against IPFS pinning service`
   *Updated specifications and documentation details.*
+- **2026-01-21 13:54:02**: `docs(erc20): resolve rounding precision edge case in fractional minting`
+  *Updated specifications and documentation details.*
