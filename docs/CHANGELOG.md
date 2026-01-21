@@ -61,3 +61,4 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
 - [2026-01-16 10:37:14] fix(governance): refactor fractional vault initialization parameters
 - [2026-01-17 19:22:10] fix(auction): add event emission for fractional share transfers
 - [2026-01-21 10:47:33] fix(erc20): optimize database indexing for fractional asset search
+- [2026-01-21 14:08:07] fix(bonding-curve): document fractional bonding curve and liquidity reserve specs
