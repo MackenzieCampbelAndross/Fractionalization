@@ -66,3 +66,4 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
 - [2026-01-21 17:44:09] fix(oracle): implement emergency circuit breaker for anomalous vault liquidations
 - [2026-01-21 19:56:59] chore(governance): add quorum calculation for fractional buyout auctions
 - [2026-01-21 20:14:04] perf(vault): refactor fractional vault initialization parameters
+- [2026-01-21 21:34:24] chore(governance): validate Chainlink price feed staleness threshold
