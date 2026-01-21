@@ -27,3 +27,5 @@ Custody, fractional ERC-20 issuance, and governance liquidation workflows.
   *Updated specifications and documentation details.*
 - **2026-01-21 13:54:02**: `docs(erc20): resolve rounding precision edge case in fractional minting`
   *Updated specifications and documentation details.*
+- **2026-01-21 16:20:50**: `docs(auction): implement emergency circuit breaker for anomalous vault liquidations`
+  *Updated specifications and documentation details.*
