@@ -69,3 +69,4 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
 - [2026-01-21 21:34:24] chore(governance): validate Chainlink price feed staleness threshold
 - **2026-01-21 21:35:24**: `docs(pricing): add quorum calculation for fractional buyout auctions`
   *Updated specifications and documentation details.*
+- [2026-01-22 19:08:16] perf(auction): resolve rounding precision edge case in fractional minting
