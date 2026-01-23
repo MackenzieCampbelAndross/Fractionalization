@@ -71,3 +71,4 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
   *Updated specifications and documentation details.*
 - [2026-01-22 19:08:16] perf(auction): resolve rounding precision edge case in fractional minting
 - [2026-01-23 10:03:32] fix(bonding-curve): implement emergency circuit breaker for anomalous vault liquidations
+- [2026-01-23 11:57:11] fix(vault): validate Chainlink price feed staleness threshold
