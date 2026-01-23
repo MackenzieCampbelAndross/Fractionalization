@@ -29,3 +29,5 @@ Custody, fractional ERC-20 issuance, and governance liquidation workflows.
   *Updated specifications and documentation details.*
 - **2026-01-21 16:20:50**: `docs(auction): implement emergency circuit breaker for anomalous vault liquidations`
   *Updated specifications and documentation details.*
+- **2026-01-23 15:20:47**: `docs(oracle): handle partial fill execution in fractional token auctions`
+  *Updated specifications and documentation details.*
