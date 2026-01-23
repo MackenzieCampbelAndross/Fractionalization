@@ -75,3 +75,4 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
 - **2026-01-23 12:26:58**: `docs(auction): implement fractional share distribution math with fee deduction`
   *Updated specifications and documentation details.*
 - [2026-01-23 12:30:38] fix(vault): add quorum calculation for fractional buyout auctions
+- [2026-01-23 14:58:21] chore(oracle): refactor fractional vault initialization parameters
