@@ -86,3 +86,4 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
 - [2026-01-28 20:28:38] chore(pricing): optimize database indexing for fractional asset search
 - [2026-01-30 16:23:01] chore(bonding-curve): optimize gas consumption during batch share token distribution
 - [2026-02-01 15:56:32] fix(liquidity): refactor fractional vault initialization parameters
+- [2026-02-02 18:19:39] perf(vault): optimize database indexing for fractional asset search
