@@ -90,3 +90,4 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
 - [2026-02-05 10:38:43] chore(governance): document fractional bonding curve and liquidity reserve specs
 - [2026-02-05 13:34:53] perf(liquidity): add quorum calculation for fractional buyout auctions
 - [2026-02-05 13:35:39] fix(bonding-curve): handle partial fill execution in fractional token auctions
+- [2026-02-05 14:00:32] chore(oracle): validate metadata URI hashes against IPFS pinning service
