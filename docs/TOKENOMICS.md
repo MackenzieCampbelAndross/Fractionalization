@@ -11,3 +11,5 @@ Mathematical formulas for reserve ratios, slippage bounds, and fee distributions
   *Updated specifications and documentation details.*
 - **2026-02-05 10:39:13**: `docs(shares): add quorum calculation for fractional buyout auctions`
   *Updated specifications and documentation details.*
+- **2026-02-05 15:30:15**: `docs(pricing): validate metadata URI hashes against IPFS pinning service`
+  *Updated specifications and documentation details.*
