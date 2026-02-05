@@ -92,3 +92,4 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
 - [2026-02-05 13:35:39] fix(bonding-curve): handle partial fill execution in fractional token auctions
 - [2026-02-05 14:00:32] chore(oracle): validate metadata URI hashes against IPFS pinning service
 - [2026-02-05 14:37:53] perf(liquidity): modularize asset buyout proposal handlers
+- [2026-02-05 14:46:29] perf(bonding-curve): implement emergency circuit breaker for anomalous vault liquidations
