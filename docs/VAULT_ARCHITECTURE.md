@@ -33,3 +33,5 @@ Custody, fractional ERC-20 issuance, and governance liquidation workflows.
   *Updated specifications and documentation details.*
 - **2026-01-30 16:01:16**: `docs(vault): validate Chainlink price feed staleness threshold`
   *Updated specifications and documentation details.*
+- **2026-02-06 12:56:31**: `docs(vault): split asset valuation engine into modular pricing feeds`
+  *Updated specifications and documentation details.*
