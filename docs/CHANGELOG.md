@@ -99,3 +99,4 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
 - [2026-02-06 11:16:08] fix(auction): add quorum calculation for fractional buyout auctions
 - [2026-02-06 13:03:21] fix(vault): implement fractional share distribution math with fee deduction
 - [2026-02-06 14:11:37] fix(vault): optimize gas consumption during batch share token distribution
+- [2026-02-06 14:39:55] perf(auction): optimize database indexing for fractional asset search
