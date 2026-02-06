@@ -95,3 +95,4 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
 - [2026-02-05 14:46:29] perf(bonding-curve): implement emergency circuit breaker for anomalous vault liquidations
 - [2026-02-05 16:42:08] perf(auction): implement emergency circuit breaker for anomalous vault liquidations
 - [2026-02-05 17:30:33] chore(vault): optimize gas consumption during batch share token distribution
+- [2026-02-06 10:59:00] fix(erc20): implement emergency circuit breaker for anomalous vault liquidations
