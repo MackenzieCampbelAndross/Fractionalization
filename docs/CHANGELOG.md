@@ -97,3 +97,4 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
 - [2026-02-05 17:30:33] chore(vault): optimize gas consumption during batch share token distribution
 - [2026-02-06 10:59:00] fix(erc20): implement emergency circuit breaker for anomalous vault liquidations
 - [2026-02-06 11:16:08] fix(auction): add quorum calculation for fractional buyout auctions
+- [2026-02-06 13:03:21] fix(vault): implement fractional share distribution math with fee deduction
