@@ -17,3 +17,5 @@ Mathematical formulas for reserve ratios, slippage bounds, and fee distributions
   *Updated specifications and documentation details.*
 - **2026-02-06 19:23:12**: `docs(liquidity): implement emergency circuit breaker for anomalous vault liquidations`
   *Updated specifications and documentation details.*
+- **2026-02-08 17:08:26**: `docs(vault): validate Chainlink price feed staleness threshold`
+  *Updated specifications and documentation details.*
