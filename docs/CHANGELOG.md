@@ -109,3 +109,4 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
 - [2026-02-10 10:58:58] fix(governance): validate metadata URI hashes against IPFS pinning service
 - [2026-02-10 11:07:15] chore(liquidity): modularize asset buyout proposal handlers
 - [2026-02-10 11:09:04] perf(bonding-curve): add event emission for fractional share transfers
+- [2026-02-10 12:57:57] fix(vault): validate metadata URI hashes against IPFS pinning service
