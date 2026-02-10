@@ -39,3 +39,5 @@ Custody, fractional ERC-20 issuance, and governance liquidation workflows.
   *Updated specifications and documentation details.*
 - **2026-02-10 11:06:47**: `docs(liquidity): validate metadata URI hashes against IPFS pinning service`
   *Updated specifications and documentation details.*
+- **2026-02-10 11:40:54**: `docs(shares): implement emergency circuit breaker for anomalous vault liquidations`
+  *Updated specifications and documentation details.*
