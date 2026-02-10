@@ -41,3 +41,5 @@ Custody, fractional ERC-20 issuance, and governance liquidation workflows.
   *Updated specifications and documentation details.*
 - **2026-02-10 11:40:54**: `docs(shares): implement emergency circuit breaker for anomalous vault liquidations`
   *Updated specifications and documentation details.*
+- **2026-02-10 22:07:19**: `docs(bonding-curve): document fractional bonding curve and liquidity reserve specs`
+  *Updated specifications and documentation details.*
