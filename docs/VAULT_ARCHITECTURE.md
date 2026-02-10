@@ -37,3 +37,5 @@ Custody, fractional ERC-20 issuance, and governance liquidation workflows.
   *Updated specifications and documentation details.*
 - **2026-02-06 14:58:06**: `docs(bonding-curve): optimize gas consumption during batch share token distribution`
   *Updated specifications and documentation details.*
+- **2026-02-10 11:06:47**: `docs(liquidity): validate metadata URI hashes against IPFS pinning service`
+  *Updated specifications and documentation details.*
