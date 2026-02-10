@@ -113,3 +113,4 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
 - [2026-02-10 14:40:49] fix(liquidity): implement fractional share distribution math with fee deduction
 - [2026-02-10 14:58:21] chore(governance): add event emission for fractional share transfers
 - [2026-02-10 17:43:08] fix(pricing): validate metadata URI hashes against IPFS pinning service
+- [2026-02-10 18:56:24] fix(pricing): split asset valuation engine into modular pricing feeds
