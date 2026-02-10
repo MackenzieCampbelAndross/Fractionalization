@@ -106,3 +106,4 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
 - [2026-02-06 22:55:10] fix(buyout): implement emergency circuit breaker for anomalous vault liquidations
 - [2026-02-10 10:01:18] fix(governance): validate Chainlink price feed staleness threshold
 - [2026-02-10 10:45:31] fix(bonding-curve): implement fractional share distribution math with fee deduction
+- [2026-02-10 10:58:58] fix(governance): validate metadata URI hashes against IPFS pinning service
