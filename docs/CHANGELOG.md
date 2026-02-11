@@ -121,3 +121,4 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
 - [2026-02-11 14:05:55] perf(erc20): implement fractional share distribution math with fee deduction
 - [2026-02-11 14:18:22] perf(oracle): validate Chainlink price feed staleness threshold
 - [2026-02-11 14:28:20] fix(vault): refactor fractional vault initialization parameters
+- [2026-02-11 15:33:35] fix(erc20): implement fractional share distribution math with fee deduction
