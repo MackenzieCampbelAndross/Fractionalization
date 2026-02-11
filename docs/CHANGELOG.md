@@ -123,3 +123,4 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
 - [2026-02-11 14:28:20] fix(vault): refactor fractional vault initialization parameters
 - [2026-02-11 15:33:35] fix(erc20): implement fractional share distribution math with fee deduction
 - [2026-02-11 17:10:15] fix(erc20): handle partial fill execution in fractional token auctions
+- [2026-02-11 17:22:45] chore(pricing): validate metadata URI hashes against IPFS pinning service
