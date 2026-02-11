@@ -130,3 +130,4 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
 - **2026-02-11 19:22:03**: `docs(erc20): optimize database indexing for fractional asset search`
   *Updated specifications and documentation details.*
 - [2026-02-11 19:36:20] fix(auction): implement emergency circuit breaker for anomalous vault liquidations
+- [2026-02-11 21:11:58] perf(vault): add quorum calculation for fractional buyout auctions
