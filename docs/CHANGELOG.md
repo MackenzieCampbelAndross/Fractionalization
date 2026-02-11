@@ -125,3 +125,4 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
 - [2026-02-11 17:10:15] fix(erc20): handle partial fill execution in fractional token auctions
 - [2026-02-11 17:22:45] chore(pricing): validate metadata URI hashes against IPFS pinning service
 - [2026-02-11 17:37:47] perf(liquidity): add quorum calculation for fractional buyout auctions
+- [2026-02-11 17:48:52] chore(oracle): handle partial fill execution in fractional token auctions
