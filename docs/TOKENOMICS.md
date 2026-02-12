@@ -21,3 +21,5 @@ Mathematical formulas for reserve ratios, slippage bounds, and fee distributions
   *Updated specifications and documentation details.*
 - **2026-02-09 10:27:56**: `docs(governance): validate Chainlink price feed staleness threshold`
   *Updated specifications and documentation details.*
+- **2026-02-12 14:13:48**: `docs(auction): handle partial fill execution in fractional token auctions`
+  *Updated specifications and documentation details.*
