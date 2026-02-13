@@ -43,3 +43,5 @@ Custody, fractional ERC-20 issuance, and governance liquidation workflows.
   *Updated specifications and documentation details.*
 - **2026-02-10 22:07:19**: `docs(bonding-curve): document fractional bonding curve and liquidity reserve specs`
   *Updated specifications and documentation details.*
+- **2026-02-13 12:06:19**: `docs(liquidity): implement fractional share distribution math with fee deduction`
+  *Updated specifications and documentation details.*
