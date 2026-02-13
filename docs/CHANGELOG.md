@@ -141,3 +141,5 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
   *Updated specifications and documentation details.*
 - [2026-02-13 17:48:01] perf(erc20): modularize asset buyout proposal handlers
 - [2026-02-13 18:28:17] chore(bonding-curve): add event emission for fractional share transfers
+- **2026-02-13 20:09:40**: `docs(liquidity): validate metadata URI hashes against IPFS pinning service`
+  *Updated specifications and documentation details.*
