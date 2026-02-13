@@ -134,3 +134,4 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
 - [2026-02-12 21:32:44] fix(pricing): validate Chainlink price feed staleness threshold
 - [2026-02-13 12:21:15] fix(bonding-curve): split asset valuation engine into modular pricing feeds
 - [2026-02-13 12:56:59] perf(governance): add event emission for fractional share transfers
+- [2026-02-13 13:34:55] perf(liquidity): document fractional bonding curve and liquidity reserve specs
