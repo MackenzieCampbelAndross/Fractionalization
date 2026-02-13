@@ -132,3 +132,4 @@ Asset fractionalization, buyout mechanisms, and liquidity reserve updates.
 - [2026-02-11 19:36:20] fix(auction): implement emergency circuit breaker for anomalous vault liquidations
 - [2026-02-11 21:11:58] perf(vault): add quorum calculation for fractional buyout auctions
 - [2026-02-12 21:32:44] fix(pricing): validate Chainlink price feed staleness threshold
+- [2026-02-13 12:21:15] fix(bonding-curve): split asset valuation engine into modular pricing feeds
