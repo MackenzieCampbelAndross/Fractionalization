@@ -2,6 +2,6 @@
   "oracleStalenessSeconds": 3600,
   "twapWindow": 1800,
   "slippageToleranceBps": 50,
-  "last_test_run": "2026-02-13 15:25:43",
-  "suite_build": 250
+  "last_test_run": "2026-02-13 17:22:10",
+  "suite_build": 254
 }
