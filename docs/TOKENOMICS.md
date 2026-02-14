@@ -25,3 +25,5 @@ Mathematical formulas for reserve ratios, slippage bounds, and fee distributions
   *Updated specifications and documentation details.*
 - **2026-02-13 10:10:01**: `docs(auction): split asset valuation engine into modular pricing feeds`
   *Updated specifications and documentation details.*
+- **2026-02-14 18:04:35**: `docs(liquidity): document fractional bonding curve and liquidity reserve specs`
+  *Updated specifications and documentation details.*
